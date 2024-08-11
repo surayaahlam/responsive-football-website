@@ -27,6 +27,8 @@ body{
 /* header section styles */
 .banner-container{
     width: 100%;
+    max-width: 1800px;
+    margin: 0 auto;
     background-color: rgb(45, 37, 160);
     padding-top: 42px;
     padding-bottom: 82px;
