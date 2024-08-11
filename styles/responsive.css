@@ -38,4 +38,25 @@
         row-gap: 24px;
         margin-top: 48px;
     }
+
+
+    /* highlights section styles */
+    .highlights-container{
+        width: 90%;
+        flex-direction: column;
+        gap: 29px;
+        margin-top: 60px;
+    }
+
+    .highlights-text-content h2{
+        font-size: 2rem;
+        line-height: 45px;
+    }
+
+    .highlights-container img{
+        width: 100%;
+    }
+
+
+    /* footer section styles */
 }

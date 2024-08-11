@@ -146,4 +146,40 @@ body{
 }
 
 
+/* highlights section styles */
+.highlights-container{
+    width: 80%;
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 165px;
+    display: flex;
+    gap: 69px;
+    align-items: center;
+}
+
+.highlights-text-content h2{
+    color: rgb(10, 8, 38);
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 60px;
+    margin-bottom: 8px;
+}
+
+.highlights-text-content p{
+    color: rgb(108, 108, 108);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 24px ;
+}
+
+.highlights-container img{
+    width: 570px;
+    height: 100%;
+}
+
+
+/* footer section styles */
+
+
 
