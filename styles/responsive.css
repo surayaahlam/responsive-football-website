@@ -59,4 +59,15 @@
 
 
     /* footer section styles */
+    .footer-container{
+        width: 90%;
+        margin-top: 43px;
+        margin-bottom: 187px;
+    }
+
+    .footer-container>img{
+        width: 275.8px;
+        height: 100%;
+        margin-bottom: 9px;
+    }
 }

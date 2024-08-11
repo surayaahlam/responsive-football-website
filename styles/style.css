@@ -40,7 +40,7 @@ body{
 }
 
 .navigation{
-    margin: 10px 0;
+    margin-top: 10px;
 }
 
 .navigation>i{
@@ -180,6 +180,39 @@ body{
 
 
 /* footer section styles */
+.footer-container{
+    width: 80%;
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-bottom: 63px;
+    margin-top: 158px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.footer-container>img{
+    width: 483.87px;
+    height: 110px;
+}
+
+.social-media{
+    display: flex;
+    gap: 14px;
+}
+
+.social-media img{
+    width: 32px;
+    height: 32px;
+}
+
+.footer-container>h6{
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+
 
 
 
